@@ -1,0 +1,9 @@
+file name on github: file name in local folder
+
+dgm_binary_ar1_covariate.R: same
+dgm_binary_categorical_covariate.R: same
+estimators_robust_adhocery.R: same
+estimators.R: same
+simulation_consistency: final_code_simulation_1_marginal_effect.R
+simulation_efficiency: simulation_20190303_evaluate efficiency gain along one dim submodel (new dgm).R
+simulation_efficiency_appendix: simulation_20181227_evaluate efficiency gain along one dim submodel.R
