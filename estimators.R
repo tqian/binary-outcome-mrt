@@ -1508,7 +1508,6 @@ log_linear_GEE_geepack <- function(
                 # test_result_t = test_result_t,
                 # test_result_f = test_result_f,
                 varcov = varcov,
-                varcov_adjusted = varcov_adjusted,
                 dims = list(p = p, q = q),
                 f.root = rep(-1, p+q)))
 }
