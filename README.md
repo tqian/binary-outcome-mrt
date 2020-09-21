@@ -6,6 +6,11 @@ Code to reproduce results in the paper [Estimating time-varying causal excursion
 Tianchen Qian
 2020.09.21
 
+
+A detailed guide on how to reproduce the results in the paper is in Section 2. Section 1 explains the code structure (useful if you would like to use the code for your own purpose).
+
+
+
 ## 1. Code Structure
 
 In file name alphabetical order:
