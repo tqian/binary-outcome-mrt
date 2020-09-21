@@ -9,6 +9,7 @@ Tianchen Qian
 
 A detailed guide on how to reproduce the results in the paper is in Section 2. Section 1 explains the code structure (useful if you would like to use the code for your own purpose).
 
+Please ignore [filename_mapping.txt](filename_mapping.txt). This file is used for my own reference, as the filenames are different on my local computer.
 
 
 ## 1. Code Structure
