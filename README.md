@@ -1,4 +1,4 @@
-# binary-outcome-mrt repository
+# Code for paper "Estimating time-varying causal excursion effect in mobile health with binary outcomes"
 
 Code to reproduce results in the paper [Estimating time-varying causal excursion effect in mobile health with binary outcomes
 ](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaa070/5901535) (Biometrika, 2020) by Tianchen Qian, Hyesun Yoo, Predrag Klasnja, Daniel Almirall, Susan A. Murphy
