@@ -37,7 +37,7 @@ In file name alphabetical order:
 
 * [simulation_consistency.R](simulation_consistency.R): code for reproducing the simulation results on consistency in Section 6.2 of the paper
 
-* [simulation_efficiency_appendix.R](simulation_efficiency_appendix.R): code for reproducing the additional simulation results on efficiency in Section F of the paper
+* [simulation_efficiency_appendix.R](simulation_efficiency_appendix.R): code for reproducing the additional simulation results on efficiency in Appendix F of the paper
 
 * [simulation_efficiency.R](simulation_efficiency.R): code for reproducing the simulation results on efficiency in Section 6.3 of the paper
 
